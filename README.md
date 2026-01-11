@@ -24,6 +24,7 @@ To verify the signatures get our GPG keys from these locations:
 | jeffro256     | <https://github.com/monero-project/monero/blob/004ead1a14d60ff757880c5b16b894b526427829/utils/gpg_keys/jeffro256.asc> |
 | Rucknium      | <https://rucknium.me/pgp.txt>                                                                                         |
 | SyntheticBird | <https://gist.github.com/SyntheticBird45/fd48b3bded266159cc0981c61f0e93f3>                                            |
+| hinto-janai   | <https://github.com/Cuprate/cuprate/blob/049cec184f8d46d2fad3274a041ff5e72eabcb73/misc/gpg_keys/hinto-janai.asc>      |
 
 Then import the keys and verify the signatures:
 
