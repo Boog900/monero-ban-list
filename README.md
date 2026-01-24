@@ -2,12 +2,9 @@
 
 A banlist for Monero nodes.
 
-These nodes were found displaying behaviour that the normal Monero nodes would not do.
-
-The total count of IP addresses hosting nodes showing this behaviour is currently over 1900.
-
-False positives are not possible, some of these IP ranges are the same as LinkingLions: https://b10c.me/observations/06-linkinglion/  
-The IPs from LinkingLion were not copied, they were found displaying this weird behaviour.
+These nodes were found displaying behaviour that the normal Monero nodes would not do. The code and the method that was used 
+to tell these nodes apart is here: https://github.com/Boog900/p2p-proxy-checker. Some nodes are now hiding this fingerprint,
+you can see the network state with the monitor by @Rucknium here: https://moneronet.info/.
 
 ### Usage
 
